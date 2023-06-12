@@ -843,7 +843,8 @@ Tweaks
 ========================================================================== */
 .meal-list {
     li {
-        padding-bottom:3px;
+        padding-bottom: 3px;
+        list-style: unset !important;
     }
 }
 
